@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md --> 
 
-* [首页](mysql/test.md)
-* [指南](mysql/test.md)
+* [java进阶(源码)](java_advanced/README.md)
+*  [mysql](mysql/数据库的隔离级别.md) 

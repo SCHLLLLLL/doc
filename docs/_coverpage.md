@@ -2,14 +2,10 @@
 
 ![logo](F:\docs\_media\icon.svg)
 
- # docsify <small>3.5</small> 
+ # Day1 <small>notebook</small> 
 
-> 一个神奇的文档网站生成器。 
+> 个人复习，总结笔记
 
-- 简单、轻便 (压缩后 ~21kB) 
-- 无需生成 html 文件 
-- 众多主题
+[GitHub](https://schllllll.github.io/doc/) 
 
-[GitHub](https://github.com/docsifyjs/docsify/) 
-
-[Get Started](mysql/test.md)
+[Get Started](README.md)
