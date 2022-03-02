@@ -1,6 +1,6 @@
 <!-- _coverpage.md --> 
 
-![logo](F:\docs\_media\icon.svg)
+<img src="F:\docsify\docs\log.png" alt="log" style="zoom:25%;" />
 
  # Day1 <small>notebook</small> 
 
